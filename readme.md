@@ -239,3 +239,10 @@ While performing an inference our computational task is to perform inference the
 
 ---
 
+## Examples
+
+[Boston Housing XGBoost(BatchTransform) High Level](https://github.com/abhijitramesh/deploying_ml_models/blob/master/Boston%20Housing%20-%20XGBoost%20(Batch%20Transform)%20-%20High%20Level.ipynb)
+
+This notebook contains a notebook which is a sample on how a simple classification can be run on sagemaker.
+
+
