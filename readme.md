@@ -207,3 +207,35 @@ The advantages of using docker is that
 4. Provides a more simple and secure way to replicate, save, and share containers. 
 
 ---
+
+# Building a model using Sage Maker
+
+# What is Sage Maker
+
+sage maker is a combination of 
+
+1. A managed Jupyter notebook 
+2. Application Programming Inference
+
+---
+
+# Why use Sage Maker
+
+The sage maker provides a platform where we can combine both the development as well as deployment steps while making a ML powered application.
+
+The notebook will help us explore the data and transform everything to the required format.
+
+The API will help us the modeling and deployment steps.
+
+---
+
+## The Sage Maker API
+
+The sage maker API can be thought of as a collection of tools that can help with both the training as well as the inference process.
+
+Lets consider training the model for this process a computational task is performed in this case that is fitting a model to a dataset. This task is performed in a virtual machine. The trees constructed in a random tree model or the layers in a neural network is saved to a file this file is called model artifacts.
+
+While performing an inference our computational task is to perform inference the inference engine takes in the model artifacts and wait for the user to input data and performs inference.
+
+---
+
