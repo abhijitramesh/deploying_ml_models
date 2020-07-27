@@ -247,3 +247,7 @@ This notebook contains a notebook which is a sample on how a simple classificati
 
 
 [Sentiment analysis using XGBoost](https://github.com/abhijitramesh/deploying_ml_models/blob/master/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Batch%20Transform).ipynb)
+
+[Boston Housing XGBoost Low Level](https://github.com/abhijitramesh/deploying_ml_models/blob/master/Boston%20Housing%20-%20XGBoost%20(Batch%20Transform)%20-%20Low%20Level.ipynb)
+
+This notebook contains the same classification as the high level but here we are taking a look at what is happening behind in sagemaker.
