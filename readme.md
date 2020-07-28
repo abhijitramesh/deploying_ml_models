@@ -257,13 +257,3 @@ This notebook contains the same classification as the high level but here we are
 This notebook contains information about deploying a model to an endpoint using the high level APIs.
 
 [Boston Housing Deployment Low Level](https://github.com/abhijitramesh/deploying_ml_models/blob/master/Boston%20Housing%20-%20XGBoost%20(Deploy)%20-%20Low%20Level.ipynb)
-
-## Deploying a model using AWS
-
-Here we are using a model build in Amazon SageMaker and using SageMaker to initialize the EndPoint.
-
-AWS Lambda is used to create a function that can use our model for inference.
-
-API Gateway is set which uses our Lambda Function so that applications can communicate with our Model for inference.
-
-[Movie Sentiment Ana](https://github.com/abhijitramesh/deploying_ml_models/blob/master/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Batch%20Transform).ipynb)
