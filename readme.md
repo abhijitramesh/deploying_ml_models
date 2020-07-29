@@ -273,3 +273,5 @@ API Gateway is set which uses our Lambda Function so that applications can commu
 When we are training a model usually we specify some hyperparameters but in most cases this wont be the most ideal hyper-parameters so AWS offers a neat feature called hyperparameter tuning which allowed us to set a particular range of hyperparameters and also tell how we expect the model to perform and sagemaker will determine the best performing model and return it to us.
 
 [Boston Housing Hyperparameter Tuning High Level](https://github.com/abhijitramesh/deploying_ml_models/blob/master/Boston%20Housing%20-%20XGBoost%20(Hyperparameter%20Tuning)%20-%20High%20Level.ipynb)
+
+[IMDB Sentiment Analysis Hyperparameter Tuning](https://github.com/abhijitramesh/deploying_ml_models/blob/master/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Hyperparameter%20Tuning).ipynb)
