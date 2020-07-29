@@ -275,3 +275,7 @@ When we are training a model usually we specify some hyperparameters but in most
 [Boston Housing Hyperparameter Tuning High Level](https://github.com/abhijitramesh/deploying_ml_models/blob/master/Boston%20Housing%20-%20XGBoost%20(Hyperparameter%20Tuning)%20-%20High%20Level.ipynb)
 
 [IMDB Sentiment Analysis Hyperparameter Tuning](https://github.com/abhijitramesh/deploying_ml_models/blob/master/IMDB%20Sentiment%20Analysis%20-%20XGBoost%20(Hyperparameter%20Tuning).ipynb)
+
+[Boston Housing Hyperparameter Tuning Low Level](https://github.com/abhijitramesh/deploying_ml_models/blob/master/Boston%20Housing%20-%20XGBoost%20(Hyperparameter%20Tuning)%20-%20Low%20Level.ipynb)
+
+This notebook contains the implementation of hyperparameter tuning of sagemaker for batchtranform job for boston house prediction.
